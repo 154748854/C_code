@@ -1,0 +1,17 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+F:\C_code\C_code\11_15\11_15\test.c(80,12): error C2065: “ROWS”: 未声明的标识符
+F:\C_code\C_code\11_15\11_15\test.c(80,12): error C2057: 应输入常量表达式
+F:\C_code\C_code\11_15\11_15\test.c(80,12): error C2466: 不能分配常量大小为 0 的数组
+F:\C_code\C_code\11_15\11_15\test.c(80,18): error C2065: “COLS”: 未声明的标识符
+F:\C_code\C_code\11_15\11_15\test.c(80,18): error C2057: 应输入常量表达式
+F:\C_code\C_code\11_15\11_15\test.c(80,18): error C2466: 不能分配常量大小为 0 的数组
+F:\C_code\C_code\11_15\11_15\test.c(80,7): error C2087: “mine”: 缺少下标
+F:\C_code\C_code\11_15\11_15\test.c(81,12): error C2065: “ROWS”: 未声明的标识符
+F:\C_code\C_code\11_15\11_15\test.c(81,12): error C2057: 应输入常量表达式
+F:\C_code\C_code\11_15\11_15\test.c(81,12): error C2466: 不能分配常量大小为 0 的数组
+F:\C_code\C_code\11_15\11_15\test.c(81,18): error C2065: “COLS”: 未声明的标识符
+F:\C_code\C_code\11_15\11_15\test.c(81,18): error C2057: 应输入常量表达式
+F:\C_code\C_code\11_15\11_15\test.c(81,18): error C2466: 不能分配常量大小为 0 的数组
+F:\C_code\C_code\11_15\11_15\test.c(81,7): error C2087: “show”: 缺少下标
