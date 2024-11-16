@@ -48,4 +48,4 @@ void InitBoard(char board[ROWS][COLS], int rows, int cols, char set)
 	}
 }
 
-void DisplayBoard()
+void DisplayBoard();
